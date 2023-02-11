@@ -17,3 +17,5 @@ The main aim is to create a puzzle game where number flies into proper cell. The
 - To delete the entered number, press "BACKSPACE" or "DELETE" buttons.
 - To find the answers for puzzle, press "SPACE" button.
 - To check the result, press "ENTER".
+
+### Screenshots
