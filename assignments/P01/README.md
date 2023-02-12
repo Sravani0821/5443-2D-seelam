@@ -8,7 +8,7 @@ The main aim is to create a puzzle game where number flies into proper cell. The
 
 | #     | File         | Description                                               |
 | :---: | ------------ | --------------------------------------------------------- |
-|   1   | [a link]      | Main driver of my project that launches game.             |
+|   1   | [a link](https://github.com/Sravani0821/5443-2D-seelam/blob/main/assignments/P01/game.py)      | Main driver of my project that launches game.             |
 |   2   | Images       | Folder with screenshots of the game.                      |
 
 ### Instructions
