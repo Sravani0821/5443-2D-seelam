@@ -18,7 +18,11 @@ The main aim is to create a puzzle game where number flies into proper cell. The
 - To find the answers for puzzle, press "SPACE" button.
 - To check the result, press "ENTER".
 
-### Screenshots![start](https://user-images.githubusercontent.com/123595425/218336157-45127103-bb6b-46f1-a3f3-7e47aa737084.jpg)
+### Screenshots
+
+![start](https://user-images.githubusercontent.com/123595425/218336157-45127103-bb6b-46f1-a3f3-7e47aa737084.jpg)
+
 ![lose](https://user-images.githubusercontent.com/123595425/218336192-af433e43-1695-4722-85d6-94257d238f51.jpg)
+
 ![won](https://user-images.githubusercontent.com/123595425/218336200-6d461ce2-af3c-4d8e-bc9f-530a2d3e3e0c.jpg)
 
