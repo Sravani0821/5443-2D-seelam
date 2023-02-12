@@ -6,9 +6,10 @@ The main aim is to create a puzzle game where number flies into proper cell. The
 
 ### Files
 
-| #     | File           | Description                                                        |
-| :---: | -------------- | ------------------------------------------------------------------ |
-|   1   | sudoku.py      | Main driver of my project that launches game.                      |
+| #     | File         | Description                                                        |
+| :---: | ------------ | ------------------------------------------------------------------ |
+|   1   | game.py      | Main driver of my project that launches game.                      |
+|   2   | Images       | Folder with screenshots of the game.                               |
 
 ### Instructions
 
