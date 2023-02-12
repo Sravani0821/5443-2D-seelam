@@ -1,4 +1,4 @@
-## PO1 - SUDOKU GAME
+## P01 - SUDOKU GAME
 ### Sravani Seelam
 ### Description
 
