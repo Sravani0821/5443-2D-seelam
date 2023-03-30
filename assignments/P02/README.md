@@ -11,7 +11,7 @@ the player will be declared as winner.
 |  #  | Files   | Description                                    |
 |:---:| ------- | ---------------------------------------------- |
 |  1  | [main.py](https://github.com/Sravani0821/5443-2D-seelam/blob/main/assignments/P02/main.py)  | Main driver of my project that launches game |
-|  2  | [Images]
+|  2  | [Images](https://github.com/Sravani0821/5443-2D-seelam/tree/main/assignments/P02/Images)    | Folder containing sprites of players(1 & 2)  |
 
 ### Instructions
 
