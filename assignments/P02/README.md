@@ -10,7 +10,7 @@ the player will be declared as winner.
 
 |  #  | Files   | Description                                    |
 |:---:| ------- | ---------------------------------------------- |
-|  1  | [main.py]
+|  1  | [main.py](https://github.com/Sravani0821/5443-2D-seelam/blob/main/assignments/P02/main.py)  | Main driver of my project that launches game |
 |  2  | [Images]
 
 ### Instructions
