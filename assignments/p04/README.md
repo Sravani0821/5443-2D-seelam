@@ -12,8 +12,8 @@ The main aim of the project is to create Adventure - Collaborative game. Players
 
 | --- | Files  |  Descrition  |
 |:---:|--------|--------------|
-|  1  |        | Main Driver of project that launches the game|
-|  2  | 
+|  1  | [main.py] https://github.com/Sravani0821/5443-2D-seelam/blob/main/assignments/p04/main.py  | Main Driver of project that launches the game|
+|  2  | [button.py] 
 
 ### Instructions
 
