@@ -11,6 +11,7 @@ The main aim of the project is to create Adventure - Collaborative game. Players
 ### Files
 
 | --- | Files  |  Descrition  |
+|:---:|--------|--------------|
 |  1  |        | Main Driver of project that launches the game|
 |  2  | 
 
